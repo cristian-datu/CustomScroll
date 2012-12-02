@@ -1,0 +1,13 @@
+.viewport {
+    border : 1px solid #555;
+    margin: auto;
+    width  : 90%;
+    height : 300px;
+}
+.scroll {
+    background: #eee;
+}
+.ctrl {
+    background: #bbb;
+    color: #bbb;
+}
