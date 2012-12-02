@@ -1,4 +1,12 @@
-
+/*! Copyright (c) 2012 Datu Cristian (https://github.com/cristian-datu)
+ * Licensed under the MIT License (LICENSE.txt).
+ *
+ * Thanks to: http://brandonaaron.net for mouse component
+ *
+ * Version: 1
+ *
+ * Requires: 1.2.2+
+ */
 (function($) {
     $.CustomScroll = function(el, options) {
         // To avoid scope issues, use 'base' instead of 'this'
