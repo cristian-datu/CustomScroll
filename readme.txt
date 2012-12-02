@@ -5,5 +5,5 @@ jQuery plugin for scrolling custom content
 Dependencies :
 
 - jQuery
-- jQuery UI (Scrollable)
+- jQuery UI (Draggable)
 - mousewheel (Mouse Support)
